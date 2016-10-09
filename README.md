@@ -1,2 +1,0 @@
-# demo-aop
-Aspect + Jersey
